@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-Work experience
-======
 * Summer 2018: Graduate Research Intern,
   *IBM Research*
   * Created an entity relationship extractor using piecewise-CNN modified with positional and contextual features, on unstructured news data. Used Watson NLU, Watson Knowledge Studio for pre annotation task, PyTorch for model and D3.js for visualisations
