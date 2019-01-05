@@ -87,9 +87,6 @@ Projects
   
 Teaching
 ======
- ''' <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>'''
  COMPSCI 197C
   
 Honors and Awards
