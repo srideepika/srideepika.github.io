@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.E. in Computer Science and Engineering, Sri Venkateswara College of Engineering, 2013-17
-* M.S. in Computer Science, University pf Massachusetts Amherst, 2017-19
+* M.S. in Computer Science, University of Massachusetts Amherst, 2017-19
 
 Work experience
 ======
@@ -87,7 +87,7 @@ Projects
   
 Teaching
 ======
- COMPSCI 197C
+ COMPSCI 197C - Special topics in C programming
   
 Honors and Awards
 ======
